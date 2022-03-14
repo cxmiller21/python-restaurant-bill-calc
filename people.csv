@@ -1,0 +1,4 @@
+name,bi_weekly_income,had_food,had_drinks
+"person1",2100,True,True
+"person2",1400,True,False
+"person3",1900,True,True
